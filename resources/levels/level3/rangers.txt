@@ -1,0 +1,2 @@
+100,100,horizontal,1
+450,300,horizontal,-1

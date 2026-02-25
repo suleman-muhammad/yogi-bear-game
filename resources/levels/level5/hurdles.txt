@@ -1,0 +1,10 @@
+50,100,bush,5
+50,150,tree,5
+50,200,bush,5
+50,250,smallmount,5
+50,300,bush,5
+500,100,tree,5
+500,150,tree,5
+500,200,mountain,5
+500,250,bush,5
+500,300,smallmount,5

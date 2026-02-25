@@ -1,0 +1,6 @@
+150,60,vertical,1
+450,60,vertical,1
+370,60,vertical,1
+125,340,vertical,-1
+225,340,vertical,-1
+325,340,vertical,-1

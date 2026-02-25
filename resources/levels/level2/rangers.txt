@@ -1,0 +1,2 @@
+200,150,horizontal,1
+450,250,horizontal,1

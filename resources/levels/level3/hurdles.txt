@@ -1,0 +1,6 @@
+100,100,bush,5
+200,200,tree,5
+400,100,bush,5
+500,100,smallmount,5
+300,50,bush,5
+300,350,com.game.yogibear.entities.Mountain,5

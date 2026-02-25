@@ -1,0 +1,16 @@
+150,50,tree,5
+150,100,tree,5
+150,150,tree,5
+150,250,tree,5
+150,300,tree,5
+150,350,tree,5
+450,50,tree,5
+450,100,tree,5
+450,150,tree,5
+450,250,tree,5
+450,300,tree,5
+450,350,tree,5
+250,200,mountain,10
+300,200,mountain,10
+350,200,mountain,10
+300,50,smallmount,5

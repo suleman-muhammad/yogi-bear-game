@@ -1,0 +1,12 @@
+200,80,mountain,10
+200,140,mountain,10
+200,200,mountain,10
+200,260,mountain,10
+200,320,mountain,10
+400,80,mountain,10
+400,140,mountain,10
+400,200,mountain,10
+400,260,mountain,10
+400,320,mountain,10
+300,50,smallmount,5
+300,350,smallmount,5

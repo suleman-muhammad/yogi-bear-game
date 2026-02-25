@@ -1,0 +1,9 @@
+100,50,horizontal,1
+430,110,horizontal,-1
+50,180,horizontal,1
+300,260,horizontal,-1
+450,30,horizontal,-1
+190,300,vertical,-1
+120,50,vertical,1
+350,300,vertical,-1
+430,50,vertical,1

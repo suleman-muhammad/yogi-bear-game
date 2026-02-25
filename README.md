@@ -61,3 +61,13 @@ Navigate Yogi Bear through increasingly difficult levels. Collect all picnic bas
 * `/resources/levels/` - Text files defining map layouts and entity spawn points.
 
 * `/resources/media/` - Visual assets utilized by the AssetsLoader for the rendering loop.
+
+
+## ⚙️ Key Takeaways
+
+- 🧱 **Logic vs Rendering Separation** — `BackEnd` handles all game state; `GamePanel` only draws and captures input. Clean boundary, easier to debug.
+- ⏱️ **Decoupled Update Rates** — Render loop runs at ~60 FPS via a 16ms timer; ranger movement throttled to every 8 ticks for controllable game speed.
+- 🐻 **Polymorphic Entities** — Abstract `Ranger` and `Hurdle` classes allow the game loop to handle all entity types uniformly without type-checking.
+- 📂 **Data-Driven Level Design** — Level layouts loaded from external `.txt` files at runtime; 30 config files across 10 levels generated via a Python script.
+- 📦 **AABB Collision Detection** — Bounding box collision using Java's `Rectangle.intersects()` for efficient player-obstacle and player-enemy interaction.
+- 🔒 **Secure Database Access** — JDBC with `PreparedStatement` prevents SQL injection; credentials externalized to `config.properties`, excluded from version control.
